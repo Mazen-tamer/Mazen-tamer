@@ -32,7 +32,7 @@
 - [🎬 شرح أساسيات الـ React وكيفية بناء أول تطبيق متكامل](https://www.tiktok.com/)
 - [🚀 سر استخدام CSS Keyframes Animation لعمل واجهات خرافية](https://www.instagram.com/)
 - [💡 تريكات محترفة في تصميم الـ UI باستخدام Glassmorphism](https://www.tiktok.com/)
-- [🌐 إطلاق الهوية الرسمية لـ Veltrix Web Solutions](https://veltrix.com)
+- [🌐 إطلاق الهوية الرسمية لـ Veltrix Web Solutions]()
 
 ---
 
